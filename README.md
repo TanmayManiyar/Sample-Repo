@@ -1,2 +1,2 @@
 # Sample-Repo
-sample repo to learn to use github
+sample repo to learn to use github.
